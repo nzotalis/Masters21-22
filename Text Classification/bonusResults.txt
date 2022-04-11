@@ -1,0 +1,8 @@
+With 1000 features and not binary: 0.745
+With 1000 features and binary: 0.746
+With 2000 features and not binary: 0.758
+With 2000 features and binary: 0.760
+With 3000 features and not binary: 0.763
+With 3000 features and binary: 0.764
+With 4000 features and not binary: 0.766
+With 4000 features and binary: 0.767
